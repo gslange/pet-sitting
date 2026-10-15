@@ -1,1 +1,5 @@
-
+Write two files for my site. A robots.txt that
+allows all crawlers and points to my sitemap,
+and a sitemap.xml that lists every page. My
+site address is [your full github.io address]
+and my pages are [list your file names].
