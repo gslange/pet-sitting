@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gslange.github.io/pet-sitting/sitemap.xml
