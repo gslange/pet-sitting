@@ -1,0 +1,108 @@
+# A/B Test Plan
+## Georgie's Pawsitive Pet Care
+
+### 1. Page and Element Being Tested
+
+The experiment will take place on the Pet Sitter
+– Iowa City page of Georgie's Pawsitive Pet Care.
+
+Version A will be the original page without a
+personal photograph of Georgie.
+
+Version B will contain one photograph of Georgie
+added to the Meet Georgie section.
+
+The photograph will be the only difference
+between the two versions. All text, headings,
+buttons, layout, and other page elements will
+remain identical.
+
+### 2. Hypothesis
+
+Adding a personal photograph of Georgie will
+increase the likelihood that potential customers
+would contact the business.
+
+Seeing the person who will care for their pets
+may help visitors develop trust, feel more
+comfortable, and create a personal connection
+with the business.
+
+### 3. Testing Method
+
+AI visitors will represent Iowa City pet owners
+looking for dependable in-home pet-sitting
+services.
+
+Each visitor will represent an Iowa City resident
+who owns a dog, is planning a weekend trip, and
+needs someone trustworthy to care for their pet.
+
+Model and version: ChatGPT GPT-6
+
+All trials will use the same model and settings.
+Each trial will take place in a fresh conversation.
+
+Visitors will be randomly assigned to Version A
+or Version B before each trial. A randomized
+assignment list containing 50 A assignments and
+50 B assignments will be created before testing.
+
+The same instructions and prompt will be used
+for every trial, with only the website URL
+changing.
+
+Exact prompt:
+
+"You are an Iowa City resident who owns a dog
+and is planning a weekend trip.
+
+You need to find a dependable in-home pet sitter
+to care for your dog while you are away.
+
+You are researching local pet-sitting businesses.
+You want to feel comfortable with the person
+entering your home and caring for your pet.
+
+Visit and review this website:
+https://gslange.github.io/pet-sitting/index.html 
+
+After reviewing the website, would you feel
+comfortable contacting this business to arrange
+a meet-and-greet for your pet?
+
+Answer YES or NO, followed by one sentence
+explaining your decision."
+
+### 4. Primary Outcome
+
+The primary outcome will be whether the visitor
+would contact the business to arrange a
+meet-and-greet.
+
+Responses will be recorded as YES or NO.
+The percentage of YES responses will be
+calculated for each version.
+
+### 5. Sample Size
+
+The experiment will include 100 total trials:
+50 for Version A and 50 for Version B.
+
+Data collection is expected to be completed
+by November 24, 2026.
+
+### 6. Comparison
+
+The percentage of YES responses will be
+calculated for each version.
+
+The difference in contact interest will be
+compared using a statistical test of proportions
+to determine whether the difference could be
+due to chance.
+
+The hypothesis will be supported if Version B
+produces a higher contact rate than Version A
+with statistical evidence that the difference
+is unlikely to be due to chance.
