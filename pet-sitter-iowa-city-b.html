@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="noindex, follow">
   <title>Pet Sitter — Iowa City | Georgie's Pawsitive Pet Care</title>
   <style>
     :root{
@@ -24,6 +25,14 @@
     .team{display:grid;gap:12px;margin-top:12px}
     @media(min-width:700px){.team{grid-template-columns:repeat(2,1fr)}}
     .bio{background:linear-gradient(180deg,#fff,#fbffff);padding:12px;border-radius:10px;border:1px solid #edf8f4}
+  .georgie-photo {
+  display: block;
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  border-radius: 10px;
+  margin: 0 auto 12px;
+}
     .muted-small{color:var(--muted);font-size:14px}
     .contact a{color:var(--accent);font-weight:700;text-decoration:none}
     footer small{color:var(--muted)}
@@ -63,6 +72,11 @@ website created for educational purposes as part of MKTG:4400 at the University 
       <h2>Meet Georgie</h2>
       <div class="team">
         <div class="bio">
+          <img
+  src="georgie.jpeg"
+  alt="Georgie, owner and lead pet sitter"
+  class="georgie-photo"
+>
           <strong>Georgie — Owner & lead pet sitter</strong>
           <p class="muted-small">I grew up caring for neighborhood pets in Iowa City and have built Georgie's Pawsitive Pet Care around trust, consistency, and genuine love for animals. I take time to learn each pet’s routine, personality, and comfort needs before I ever begin a visit.</p>
         </div>
